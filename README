@@ -1,0 +1,6 @@
+Herramientas Python para Diagnose
+=================================
+
+Este repositorio contiene paquetes y scripts Python para trabajar con (y suplementar) el sistema informático Diagnose, en uso en los hospitales de la provincia de Santa Fe, Argentina.
+
+Diagnose es un conjunto de módulos escritos en Visual Basic 6, que utilizan OBDC para comunicarse con bases de datos MySQL. Estas herramientas utilizan *[pymysql](https://github.com/PyMySQL/PyMySQL/)* para consultar directamente las bases de datos.
